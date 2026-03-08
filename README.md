@@ -17,5 +17,5 @@ A simple weather application built using HTML, CSS and JavaScript that fetches r
 
 ##  Preview
 
-![Peek](ASSETS/images/weathersss.jpg)
+![Peek](ASSETS/images/preview.jpg)
 
