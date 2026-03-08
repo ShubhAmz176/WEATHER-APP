@@ -15,15 +15,7 @@ A simple weather application built using HTML, CSS and JavaScript that fetches r
 - JavaScript (ES6)
 - OpenWeather API
 
-##  Screenshots
-(Add screenshots here)
+##  Preview
 
-##  Project Structure
- weather-app
- ┣ ASSETS
- ┃ ┗images
- ┣ css
- ┃ ┗ style.css
- ┣ js
- ┃ ┗ script.js
- ┗ index.html
+![Peek](ASSETS/images/weathersss.jpg)
+
